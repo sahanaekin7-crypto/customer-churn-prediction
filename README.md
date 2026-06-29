@@ -17,6 +17,6 @@ pip install -r requirements.txt
 
 2. Run the application:
 
-python app.py
+python -m streamlit run app.py
 
 3. Open the displayed link in your browser.

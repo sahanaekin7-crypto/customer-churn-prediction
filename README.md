@@ -5,8 +5,8 @@ This project predicts whether a customer will churn or stay using Machine Learni
 
 ## Files
 - app.py - Main application
-- model.py - Model training code
-- telco_customer.csv - Dataset
+- train_model.py - Model training code
+- Telco_Customer-Churn.csv - Dataset
 - requirements.txt - Required libraries
 
 ## How to Run
